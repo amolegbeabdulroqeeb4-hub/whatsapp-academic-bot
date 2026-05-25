@@ -1,0 +1,12 @@
+{
+  "groups": [
+    {
+      "id": "PASTE_GROUP_ID_HERE",
+      "name": "UNIABUJA FIN 400L",
+      "institution": "UNIABUJA",
+      "department": "Finance",
+      "level": "400",
+      "active": false
+    }
+  ]
+}
