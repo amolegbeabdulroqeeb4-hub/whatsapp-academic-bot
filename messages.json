@@ -1,0 +1,36 @@
+{
+  "broadcasts": [
+    {
+      "name": "Weekly Promo",
+      "active": true,
+      "schedule": "0 10 * * MON",
+      "targetGroups": ["all"],
+      "message": "🎓 *Confluence Projects Consult*\n\nStruggling with your final year project or dissertation?\n\nWe handle:\n✅ Undergraduate Projects (HND & BSc)\n✅ MSc & PhD Dissertations\n✅ Proposals & Literature Reviews\n✅ Data Analysis & Presentation\n\nAll disciplines in Management & Social Sciences covered.\n\n💯 Original, well-researched, and professionally delivered.\n\nSlide into our DM now or save this number! 📲"
+    },
+    {
+      "name": "Project Season Push",
+      "active": false,
+      "schedule": "0 9 * * WED,FRI",
+      "targetGroups": ["all"],
+      "message": "📢 *Confluence Projects Consult*\n\nProject season is here! Don't get left behind.\n\nWe deliver quality academic projects across:\n📌 Accounting & Finance\n📌 Business Administration\n📌 Economics & Public Admin\n📌 Sociology & Political Science\n📌 HR & Marketing\n\nFast delivery. Affordable rates. Trusted results.\n\nChat us now! 👇"
+    }
+  ],
+  "autoreplies": [
+    {
+      "keywords": ["price", "cost", "how much", "fee", "charge"],
+      "response": "💰 *Confluence Projects Consult — Pricing*\n\nOur pricing depends on:\n📌 Level (HND, BSc, MSc, PhD)\n📌 Number of chapters needed\n📌 Deadline\n\nSend us your details and we'll give you an exact quote within minutes!\n\nOur consultant will attend to you shortly. 🙏"
+    },
+    {
+      "keywords": ["how long", "duration", "when", "deadline", "days"],
+      "response": "⏱ *Confluence Projects Consult — Delivery Time*\n\nDelivery depends on the scope of work:\n📌 Proposal — 2 to 3 days\n📌 Full Undergraduate Project — 5 to 7 days\n📌 MSc Dissertation — 7 to 14 days\n\nUrgent delivery is also available!\n\nTell us your deadline and we'll work with you. 💪"
+    },
+    {
+      "keywords": ["original", "plagiarism", "turnitin", "unique"],
+      "response": "✅ *Confluence Projects Consult — Originality*\n\nAll our work is:\n📌 100% originally written\n📌 Properly referenced with real verifiable sources\n📌 Passes plagiarism checks\n\nWe do NOT recycle or resell projects. Your work is yours alone. 🔒\n\nOur consultant will attend to you shortly!"
+    },
+    {
+      "keywords": ["hello", "hi", "good morning", "good afternoon", "good evening", "hey"],
+      "response": "👋 *Welcome to Confluence Projects Consult!*\n\nThank you for reaching out.\n\nWe help undergraduate and postgraduate students across Nigeria deliver quality academic projects in Management and Social Sciences.\n\nPlease tell us:\n1️⃣ Your institution\n2️⃣ Your department\n3️⃣ Your level (HND/BSc/MSc/PhD)\n4️⃣ What you need\n\nOur consultant will attend to you shortly! 🎓"
+    }
+  ]
+}
