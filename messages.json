@@ -5,32 +5,62 @@
       "active": true,
       "schedule": "0 10 * * MON",
       "targetGroups": ["all"],
-      "message": "🎓 *Confluence Projects Consult*\n\nStruggling with your final year project or dissertation?\n\nWe handle:\n✅ Undergraduate Projects (HND & BSc)\n✅ MSc & PhD Dissertations\n✅ Proposals & Literature Reviews\n✅ Data Analysis & Presentation\n\nAll disciplines in Management & Social Sciences covered.\n\n💯 Original, well-researched, and professionally delivered.\n\nSlide into our DM now or save this number! 📲"
+      "message": "🎓 *Confluence Projects Consult*\n_From Proposal to Defence... and Beyond_\n\n📢 Are you struggling with your final year project, dissertation, or journal article?\n\nWe've got you covered! ✅\n\n📌 Undergraduate Projects (Ch. 1–5)\n📌 MSc & PhD Dissertations\n📌 Data Analysis & Results Writing\n📌 Journal & Manuscript Writing\n📌 Editing, Proofreading & Formatting\n📌 Defence Slides & Preparation\n\n💯 Original. Professional. Confidential.\n\n📲 Chat us now: 09163435059\n_Limited slots available — don't wait!_"
     },
     {
       "name": "Project Season Push",
       "active": false,
       "schedule": "0 9 * * WED,FRI",
       "targetGroups": ["all"],
-      "message": "📢 *Confluence Projects Consult*\n\nProject season is here! Don't get left behind.\n\nWe deliver quality academic projects across:\n📌 Accounting & Finance\n📌 Business Administration\n📌 Economics & Public Admin\n📌 Sociology & Political Science\n📌 HR & Marketing\n\nFast delivery. Affordable rates. Trusted results.\n\nChat us now! 👇"
+      "message": "⏰ *Confluence Projects Consult*\n_From Proposal to Defence... and Beyond_\n\nProject season is here and slots are filling fast!\n\nWhether you're just starting or racing against a deadline — we are ready to help you RIGHT NOW. 💪\n\n✅ Undergraduate Projects\n✅ MSc & PhD Dissertations\n✅ Data Analysis Only\n✅ Editing & Formatting\n✅ Defence Slides & Training\n\n🔒 Confidential | ⚡ Fast Delivery | 📄 Original Work\n\n📲 WhatsApp us now: 09163435059\n_Don't let your project stress you — we handle it professionally._"
+    },
+    {
+      "name": "Deadline Reminder",
+      "active": false,
+      "schedule": "0 8 * * FRI",
+      "targetGroups": ["all"],
+      "message": "🚨 *Confluence Projects Consult*\n_From Proposal to Defence... and Beyond_\n\n⚠️ Deadline Approaching?\n\nDon't panic. We have helped hundreds of students deliver quality projects on time — we can help you too.\n\n📌 Full Project (Ch. 1–5)\n📌 Data Analysis (Ch. 4 & 5)\n📌 Editing & Formatting\n📌 Journal Writing\n\n⚡ Rush delivery available!\n\n📲 Send your topic today: 09163435059\n_Confidential | Original | Professional_"
+    },
+    {
+      "name": "Ambassador Recruitment",
+      "active": false,
+      "schedule": "0 11 * * TUE",
+      "targetGroups": ["all"],
+      "message": "🌟 *Become a Campus Ambassador — Confluence Projects Consult*\n\nAre you a student who knows people?\n\nPartner with us and earn cash rewards simply by connecting us with clients! 💰\n\n✅ Earn Cash Commission Per Referral\n✅ Get Your Own Project Done FREE\n✅ Flexible — Work At Your Own Pace\n✅ No Experience Required\n\n⚠️ Limited Ambassador Slots Available!\n\n📲 Send us a message to apply: 09163435059\n_Confidential | Professional | Rewarding_"
     }
   ],
   "autoreplies": [
     {
-      "keywords": ["price", "cost", "how much", "fee", "charge"],
-      "response": "💰 *Confluence Projects Consult — Pricing*\n\nOur pricing depends on:\n📌 Level (HND, BSc, MSc, PhD)\n📌 Number of chapters needed\n📌 Deadline\n\nSend us your details and we'll give you an exact quote within minutes!\n\nOur consultant will attend to you shortly. 🙏"
+      "keywords": ["price", "cost", "how much", "fee", "charge", "rate", "money", "pay"],
+      "response": "💰 *Confluence Projects Consult — Pricing Guide*\n\nHere's a general overview of our services:\n\n📘 Undergraduate Full Project (Ch. 1–5) — from ₦50,000\n📘 Undergraduate Ch. 1–3 Only — from ₦30,000\n📘 Data Analysis Only (Ch. 4 & 5) — from ₦20,000\n📗 MSc/PhD Dissertations — pricing depends on scope and level\n📝 Journal/Manuscript Writing — from ₦25,000\n📝 Editing & Proofreading — from ₦5,000\n⚡ Rush Delivery — from ₦10,000 add-on\n🎤 Defence Slides & Training — from ₦5,000\n\n_All prices are subject to final confirmation by our consultant based on your specific requirements._\n\n👤 *Mr. Oladimeji will attend to you shortly to give you an exact quote!* 🙏"
     },
     {
-      "keywords": ["how long", "duration", "when", "deadline", "days"],
-      "response": "⏱ *Confluence Projects Consult — Delivery Time*\n\nDelivery depends on the scope of work:\n📌 Proposal — 2 to 3 days\n📌 Full Undergraduate Project — 5 to 7 days\n📌 MSc Dissertation — 7 to 14 days\n\nUrgent delivery is also available!\n\nTell us your deadline and we'll work with you. 💪"
+      "keywords": ["how long", "duration", "when", "deadline", "days", "how many days", "time"],
+      "response": "⏱ *Confluence Projects Consult — Delivery Timeline*\n\nHere's a general guide:\n\n📌 Proposal only — 2 to 3 days\n📌 Undergraduate Full Project (Ch. 1–5) — 5 to 7 days\n📌 MSc Dissertation — 7 to 14 days\n📌 PhD Dissertation — timeline confirmed by consultant\n📌 Data Analysis — 2 to 4 days\n📌 Editing & Formatting — 1 to 2 days\n\n⚡ Rush delivery is also available for urgent requests!\n\n_Final delivery timeline will be confirmed based on your specific project by our consultant._\n\n👤 *Mr. Oladimeji will attend to you shortly!* 🙏"
     },
     {
-      "keywords": ["original", "plagiarism", "turnitin", "unique"],
-      "response": "✅ *Confluence Projects Consult — Originality*\n\nAll our work is:\n📌 100% originally written\n📌 Properly referenced with real verifiable sources\n📌 Passes plagiarism checks\n\nWe do NOT recycle or resell projects. Your work is yours alone. 🔒\n\nOur consultant will attend to you shortly!"
+      "keywords": ["original", "plagiarism", "turnitin", "unique", "copied", "fresh"],
+      "response": "✅ *Confluence Projects Consult — Our Originality Promise*\n\nEvery project we deliver is:\n\n📌 100% originally written from scratch\n📌 Properly referenced with real, verifiable sources\n📌 Structured to your institution's guidelines\n📌 Passes plagiarism checks\n\n🔒 We do NOT recycle or resell projects. Your work belongs to you alone.\n\n_Confidential | Professional | Trusted by hundreds of students._\n\n👤 *Mr. Oladimeji will attend to you shortly to discuss your project!* 🙏"
     },
     {
-      "keywords": ["hello", "hi", "good morning", "good afternoon", "good evening", "hey"],
-      "response": "👋 *Welcome to Confluence Projects Consult!*\n\nThank you for reaching out.\n\nWe help undergraduate and postgraduate students across Nigeria deliver quality academic projects in Management and Social Sciences.\n\nPlease tell us:\n1️⃣ Your institution\n2️⃣ Your department\n3️⃣ Your level (HND/BSc/MSc/PhD)\n4️⃣ What you need\n\nOur consultant will attend to you shortly! 🎓"
+      "keywords": ["hello", "hi", "good morning", "good afternoon", "good evening", "hey", "help", "interested"],
+      "response": "👋 *Welcome to Confluence Projects Consult!*\n_From Proposal to Defence... and Beyond_\n\nThank you for reaching out. 🎓\n\nWe help undergraduate and postgraduate students across Nigeria deliver quality academic projects in Management and Social Sciences — professionally and confidentially.\n\nTo help us serve you better, please share:\n\n1️⃣ Your institution\n2️⃣ Your department\n3️⃣ Your level (HND / BSc / MSc / PhD)\n4️⃣ What you need help with\n5️⃣ Your deadline (if any)\n\n👤 *Mr. Oladimeji will attend to you shortly!* 🙏"
+    },
+    {
+      "keywords": ["chapter", "project", "dissertation", "thesis", "proposal", "write", "topic", "research"],
+      "response": "📚 *Confluence Projects Consult — We've Got You Covered!*\n\nWe handle everything from start to finish:\n\n✅ Chapter 1 — Introduction & Background\n✅ Chapter 2 — Literature Review\n✅ Chapter 3 — Research Methodology\n✅ Chapter 4 — Data Analysis & Results\n✅ Chapter 5 — Summary, Conclusion & Recommendations\n\nWe also handle:\n📌 MSc & PhD Dissertations\n📌 Journal & Manuscript Writing\n📌 Defence Slides & Preparation\n\n_All disciplines in Management & Social Sciences covered._\n\n👤 *Mr. Oladimeji will attend to you shortly to discuss your specific needs and confirm pricing!* 🙏"
+    },
+    {
+      "keywords": ["ambassador", "rep", "referral", "commission", "partner", "earn"],
+      "response": "🌟 *Confluence Projects Consult — Campus Ambassador Program*\n\nInterested in becoming a Campus Ambassador? Great choice! 💪\n\nAs an ambassador you get:\n✅ Cash commission for every client you refer\n✅ Your own project handled for FREE\n✅ Flexible working — no experience needed\n\n⚠️ Slots are limited!\n\n👤 *Mr. Oladimeji will attend to you shortly to give you full details and get you onboarded!* 🙏"
+    },
+    {
+      "keywords": ["payment", "transfer", "account", "bank", "opay", "send money"],
+      "response": "💳 *Confluence Projects Consult — Payment Information*\n\nWe operate a simple payment structure:\n\n📌 50% upfront to commence work\n📌 50% balance before final delivery\n\n_Payment details will be shared by our consultant once your project scope and pricing have been confirmed._\n\n👤 *Mr. Oladimeji will attend to you shortly to finalise everything!* 🙏"
+    },
+    {
+      "keywords": ["editing", "proofread", "correction", "format", "formatting", "grammar"],
+      "response": "✏️ *Confluence Projects Consult — Editing & Formatting*\n\nWe offer professional editing services:\n\n📌 Preliminary Editing — from ₦5,000\n📌 Full Editing & Proofreading — from ₦8,000\n📌 Formatting to institutional guidelines — included\n\n_Final pricing confirmed by our consultant based on document length and condition._\n\n👤 *Mr. Oladimeji will attend to you shortly!* 🙏"
     }
   ]
 }
