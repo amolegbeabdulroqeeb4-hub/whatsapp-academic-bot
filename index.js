@@ -45,17 +45,21 @@ const handleAutoReply = async (sock, message) => {
   }
   
   // Default reply if no keyword matched
-  const defaultReply = `Hello! Thank you for reaching out to *Confluence Projects Consult* 🎓
+const defaultReply = `👋 *Welcome to Confluence Projects Consult!*
+_From Proposal to Defence... and Beyond_
 
-We specialise in academic research projects for undergraduate and postgraduate students across management and social sciences.
+Thank you for reaching out. 🎓
+
+We help undergraduate and postgraduate students across Nigeria deliver quality academic projects in Management and Social Sciences — professionally and confidentially.
 
 Please tell us:
 1️⃣ Your institution
 2️⃣ Your department
-3️⃣ Your level (HND/BSc/MSc/PhD)
+3️⃣ Your level (HND / BSc / MSc / PhD)
 4️⃣ What you need help with
+5️⃣ Your deadline (if any)
 
-Our consultant will attend to you shortly! ⏳`
+👤 *Mr. Oladimeji will attend to you shortly!* 🙏`
 
   await sock.sendMessage(from, { text: defaultReply })
 }
